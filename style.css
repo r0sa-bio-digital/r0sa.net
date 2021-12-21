@@ -1,0 +1,18 @@
+body {
+  font-family: meslo;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+h4 {
+  font-weight: bold;
+  color: lightgrey;
+}
+
+footer {
+  color: #808080
+}
